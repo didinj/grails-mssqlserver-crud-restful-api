@@ -1,11 +1,17 @@
-# Grails 3 and Microsoft SQL Server: Building CRUD RESTful API
+## Build a CRUD RESTful API with Grails 6 and Microsoft SQL Server
 
-This source code is part of [Grails 3 and Microsoft SQL Server: Building CRUD RESTful API](https://www.djamware.com/post/5ba5962c80aca74669894416/grails-3-and-microsoft-sql-server-building-crud-restful-api) tutorial.
+Read the full tutorial [here]().
 
-To run locally:
+- [User Guide](https://docs.grails.org/6.2.3/guide/index.html)
+- [API Reference](https://docs.grails.org/6.2.3/api/index.html)
+- [Grails Guides](https://guides.grails.org/index.html)
 
-* Clone this repo
-* Configure `grails-app/conf/application.yml` change the URL and database name
-* Create a database from Microsoft SQL Server
-* Run Microsoft SQL Server
-* Run Grails 3 app `grails run-app`
+---
+
+## Feature testcontainers documentation
+
+- [https://www.testcontainers.org/](https://www.testcontainers.org/)
+
+## Feature views-json documentation
+
+- [Grails JSON Views documentation](https://views.grails.org/)

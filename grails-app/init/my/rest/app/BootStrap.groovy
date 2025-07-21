@@ -1,4 +1,4 @@
-package grails.rest.sqlserver
+package my.rest.app
 
 class BootStrap {
 
